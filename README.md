@@ -13,12 +13,12 @@ Modify the generator and discriminator for experimentation.
 # Installation
 Clone the repository:
 
-git clone https://github.com/MairAhmed/Fashion-GAN-implementation.git
+    git clone https://github.com/MairAhmed/Fashion-GAN-implementation.git
 
-cd Fashion-GAN-implementation
+    cd Fashion-GAN-implementation
 
 # Requirements
-Python 3.x
-TensorFlow or PyTorch (depending on the implementation)
-NumPy
-Matplotlib
+    Python 3.x
+    TensorFlow or PyTorch (depending on the implementation)
+    NumPy
+    Matplotlib
